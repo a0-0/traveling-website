@@ -32,8 +32,11 @@ a {
 .img-2{
   position: absolute!important;
   margin-top: 100px;
-  right: 280px !important;
+  margin-left: -130px !important;
+
+
 }
+
 
 h3 {
   font-family: 'Poppins', sans-serif !important;
