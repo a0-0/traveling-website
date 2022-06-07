@@ -25,18 +25,17 @@ a {
   width: auto;
   margin-top: 70px;
 }
-.img-1{
-  position: absolute!important;
+
+.img-1 {
+  position: absolute !important;
   margin-top: 85px;
 }
-.img-2{
-  position: absolute!important;
+
+.img-2 {
+  position: absolute !important;
   margin-top: 100px;
   margin-left: -130px !important;
-
-
 }
-
 
 h3 {
   font-family: 'Poppins', sans-serif !important;
@@ -47,8 +46,9 @@ h3 {
   font-size: 23px !important;
   line-height: 30px !important;
 }
-.margin-h3{
-  margin: 15px  0!important;
+
+.margin-h3 {
+  margin: 15px 0 !important;
 }
 
 h1 {
@@ -75,8 +75,6 @@ h1 {
   border-radius: 10px !important;
 }
 
-
-
 p {
   color: #5E6282;
   font-family: 'Poppins' !important;
@@ -86,8 +84,8 @@ p {
   line-height: 30px !important;
 }
 
-.margin{
-  width: 75%!important;
+.margin {
+  width: 75% !important;
   margin: 15px 0 !important;
 }
 
@@ -99,7 +97,8 @@ p {
   background: #DF6951 !important;
   box-shadow: 0px 15px 30px rgba(223, 105, 81, 0.3) !important;
 }
-span{
+
+span {
   font-family: 'Poppins' !important;
   font-style: normal !important;
   font-weight: 500 !important;
@@ -108,15 +107,67 @@ span{
   color: #686D77 !important;
 }
 
-.fonta{
-    font-family: 'Poppins', sans-serif !important;
-    color: #ffffff !important;
-    font-style: normal !important;
-    font-weight: 500 !important;
-    font-size: 20px !important;
-    line-height: 23px !important;
+.fonta {
+  font-family: 'Poppins', sans-serif !important;
+  color: #ffffff !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 20px !important;
+  line-height: 23px !important;
+}
+
+.warning {
+  padding: 19px 27px !important;
+}
+
+.section-2 {
+  margin-top: 110px !important;
+  text-align: center;
+}
+
+.position-1 {
+  background-image: url(file:///E:/web-projects/traveling-website/images/Group4.svg);
+  background-repeat: no-repeat;
+  background-position: right;
+  padding: 80px 0 80px 0 !important;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-family: 'Poppins' !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  line-height: 27px !important;
+  /* identical to box height */
+  text-align: center !important;
+  /* TEXT CLR */
+  color: #5E6282 !important;
+}
+
+.card-deck{
+  text-align: center !important;
+  margin: auto!important;
 
 }
-.warning{
-  padding: 19px 27px !important;
+.card{
+  border-style: none !important;
+  width: 230px !important;
+  margin: 4.3%;
+
+}
+.card-img-top{
+  margin: auto;
+  width: 77px !important;
+
+}
+.pos{
+  z-index: 1 !important;
+  position: absolute;
+  right: 10px!important;
+  top: 27px;
+  width: 50px;
+  height: 49px;
+}
+.card-body{
+  width: 230px !important;
 }
