@@ -1,0 +1,68 @@
+.navbar-margin {
+  margin: 0 17% !important;
+}
+
+a {
+  color: black !important;
+  text-decoration: none !important;
+}
+
+/* 134 */
+.nav-item {
+  margin-left: 27.5px;
+  margin-right: 27.5px;
+  font-size: 17px;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.part1-ma {
+  margin-top: 134px !important;
+}
+
+.photo-mar{
+  margin-left: -150px !important;
+  margin-top: 50px !important;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif !important;
+  text-transform: uppercase !important;
+  color: #DF6951 !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 27px !important;
+  line-height: 30px !important;
+}
+
+h1{
+font-family: 'Volkhov', serif !important ;
+font-style: normal !important;
+font-weight: 700 !important;
+font-size: 84px !important;
+line-height: 89px !important;
+}
+
+.hero-section {
+  background: #fff;
+  background-image: url(file:///E:/web-projects/traveling-website/images/Decor-yellow.png);
+  background-repeat: no-repeat;
+  background-position: top;
+
+}
+
+.warning{
+  color: white !important;
+  background: #F1A501 !important;
+  box-shadow: 0px 20px 35px rgba(241, 165, 1, 0.15) !important ;
+  border-radius: 10px !important;
+}
+
+p{
+  color: #5E6282;
+
+  font-family: 'Poppins' !important;
+font-style: normal !important;
+font-weight: 500 !important;
+font-size: 16px !important;
+line-height: 30px !important;
+}
